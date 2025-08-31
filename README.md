@@ -18,9 +18,6 @@ This project implements an integrated system for fire detection using deep learn
 1. Install required Python packages (see code for dependencies)
 2. Run `detection.py` to start fire detection
 
-## Note on File Naming
-
-The file `trained_lstm_model.py.py` has a duplicate `.py` extension. This is likely a mistake—usually, Python files should have only one `.py` extension (e.g., `trained_lstm_model.py`). You may want to rename this file for clarity.
 
 ## License
 
